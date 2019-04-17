@@ -1,0 +1,31 @@
+Country,City,Date,Temperature
+India,Mumbai,01-01-2019,17.99
+India,Mumbai,02-01-2019,19
+India,Mumbai,03-01-2019,18.32
+India,Mumbai,04-01-2019,17.77
+India,Mumbai,05-01-2019,17.4
+India,Mumbai,06-01-2019,17.5
+India,Mumbai,07-01-2019,19.27
+India,Mumbai,08-01-2019,18.35
+India,Mumbai,09-01-2019,17.79
+India,Mumbai,10-01-2019,18.14
+US,New Jesey,01-01-2019,19.43
+US,New Jesey,02-01-2019,20.39
+US,New Jesey,03-01-2019,19.79
+US,New Jesey,04-01-2019,19.39
+US,New Jesey,05-01-2019,17.79
+US,New Jesey,06-01-2019,19.14
+US,New Jesey,07-01-2019,19.42
+US,New Jesey,08-01-2019,19.73
+US,New Jesey,09-01-2019,19.05
+US,New Jesey,10-01-2019,17.85
+New Zealand,Auckland,01-01-2019,18.35
+New Zealand,Auckland,02-01-2019,17.79
+New Zealand,Auckland,03-01-2019,18.14
+New Zealand,Auckland,04-01-2019,19.43
+New Zealand,Auckland,05-01-2019,20.39
+New Zealand,Auckland,06-01-2019,19.79
+New Zealand,Auckland,07-01-2019,19.39
+New Zealand,Auckland,08-01-2019,17.79
+New Zealand,Auckland,09-01-2019,18.14
+New Zealand,Auckland,10-01-2019,19.43
